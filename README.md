@@ -23,4 +23,4 @@
 - **uuid**: For generating unique IDs for cart items.
 - **json-server**: Used to create a mock REST API.
 
-![GIF](thunk.gif)# react_thunk
+![GIF](thunk.gif)
